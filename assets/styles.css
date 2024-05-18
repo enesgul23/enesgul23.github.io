@@ -67,6 +67,29 @@ main {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+#publications-list li .title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+#publications-list li .abstract {
+    margin-left: 1rem;
+    color: #666;
+    font-style: italic;
+}
+
+#publications-list li .github-link {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+#publications-list li .github-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 0.5rem;
+}
+
 h2 {
     color: #333;
 }
