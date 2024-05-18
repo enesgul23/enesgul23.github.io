@@ -4,6 +4,7 @@
         "Dergi İsmi": "E Gül, Z Kılıç, E İkincioğulları, MC Aydın",
         "Yazar Sıralaması": "Water SA 50 (1), 92-105, 2024",
         "Tarih": "2024"
+        
     },
     {
         "Yayın İsmi": "Experimentally verified numerical investigation of the sill hydraulics for abruptly expanding stilling basin",
@@ -46,12 +47,15 @@
         "Dergi İsmi": "E Gul, MJS Safari",
         "Yazar Sıralaması": "Big Data, 2023",
         "Tarih": "2023"
+        "GitHub": "https://github.com/enesgul23/sedimenttool"
+        
     },
     {
-        "Yayın İsmi": "A novel prediction model for durability properties of concrete modified with steel fiber and Silica Fume by using Hybridized GRELM",
-        "Dergi İsmi": "S Cemalgil, E Gül, O Onat, HY Aruntaş",
-        "Yazar Sıralaması": "Construction and Building Materials 341, 127856, 2022",
-        "Tarih": "2022"
+        "Yayın İsmi": "Ensemble and optimized hybrid algorithms through Runge Kutta optimizer for sewer sediment transport modeling using a data pre-processing approach",
+        "Dergi İsmi": "E Gül, MJS Safari, OF Dursun, G Tayfur",
+        "Yazar Sıralaması": "International Journal of Sediment Research",
+        "Tarih": "2023"
+        "GitHub": "https://github.com/enesgul23/Infrastructuretool"
     },
     {
         "Yayın İsmi": "Studying the Changes in the Hydro‐Meteorological Components of Water Budget in Lake Urmia",
